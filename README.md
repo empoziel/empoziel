@@ -4,3 +4,4 @@
 🎮I enjoy spending time with computer games.
 📖I'm on my way to become a React JS Developer.
 🔍I will add new technologies that I learned.
+
