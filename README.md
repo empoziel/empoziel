@@ -1,16 +1,11 @@
-h1 align="center">Hi 👋, I'm Hasan</h1>
+<h1> align="center">Hi 👋, I'm Hasan</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 🌱 I’m currently learning **HTML, CSS , JavaScript , React**
 
-- 👯 I’m looking to collaborate on **Udemig**
+
 
 - 📫 How to reach me **iletisimhasankaplan@gmail.com**
 
-- ✨About Me <br>
-    I like practical work. <br>
-    I like my work to look clean.<br>
-    I care about helping each other in team work and learning new things.<br>
 
 
 <h3 align="left">Connect with me:</h3>
